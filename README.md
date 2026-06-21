@@ -27,9 +27,4 @@ This project analyzes e-commerce sales data using SQL and Power BI to identify s
 - Payment methods were distributed evenly.
 - Tablets and Smartphones were among the most profitable products.
 
-## Project Files
 
-- Power BI Dashboard (.pbix)
-- SQL Queries
-- Dataset
-- Project Report
